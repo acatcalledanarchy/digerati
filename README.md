@@ -1,2 +1,6 @@
 # digerati
-Portfolio Website
+
+---
+
+Hero animation 
+Escher CSS tessalation
