@@ -2,5 +2,5 @@
 
 ---
 
-Hero animation 
-Escher CSS tessalation
+* Hero animation 
+* Escher CSS tessalation
